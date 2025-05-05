@@ -1,5 +1,5 @@
 # OpenWRT-CI
-云编译OpenWRT固件
+一个基于V佬的改版，加入了usb色相头的驱动，可以装MJPG-streamer当IP摄像机用，蛮好用的
 
 官方版：
 https://github.com/immortalwrt/immortalwrt.git
